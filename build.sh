@@ -7,7 +7,7 @@ set -o pipefail # Bashism
 
 # Lingmo's default values
 LINGMO_DIST="trixie"
-LINGMO_VERSION=""
+LINGMO_VERSION="redish101-build"
 LINGMO_VARIANT="default"
 IMAGE_TYPE="live"
 TARGET_DIR="$(dirname $0)/images"
